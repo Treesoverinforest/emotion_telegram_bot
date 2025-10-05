@@ -1,0 +1,5 @@
+transformers
+torch
+python-telegram-bot
+aiohttp
+numpy
